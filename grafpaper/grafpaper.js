@@ -1,8 +1,8 @@
 /* init */
 var pixel = {
-  size: 30,
+  size: 15,
   color: 'rgba(0,0,0,.5)',
-  stroke: 'none',
+  stroke: 'rgba(0,0,255,.1)',
   strokeWeight: 1
 };
 
